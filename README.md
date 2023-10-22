@@ -6,7 +6,7 @@
 
 - **Infraestrutura como Código (IaC)**: Tenho ampla experiência na criação e gerenciamento de infraestrutura na nuvem usando ferramentas como Terraform, Ansible e Azure Resource Manager.
 
-- **Engenharia de Banco de Dados**: Sou especializado em projetar, implementar e otimizar bancos de dados SQL e NoSQL em ambientes de nuvem, incluindo Azure SQL Database, Cosmos DB e muito mais.
+- **Engenharia de Banco de Dados**: Sou especializado em projetar, implementar e otimizar bancos de dados SQL e NoSQL em ambientes de nuvem, incluindo Azure SQL Database, MongoDB e muito mais.
 
 - **Otimização de Banco de Dados**: Adoro enfrentar desafios de desempenho e otimizar consultas para garantir que os sistemas de banco de dados sejam eficientes e escaláveis.
 
