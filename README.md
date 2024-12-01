@@ -4,6 +4,7 @@
 
 👋 Olá! Eu sou o Gabriel mas meu apelido é Montanha, um profissional de tecnologia apaixonado por criar, otimizar e automatizar processos na nuvem. Minha experiência abrange uma variedade de áreas, incluindo:
 
+- **Atualmente na área de engenharia de dados **: Desenvolvimento de ETLs , ELTs, produção de pípelines para captura de dados.
 - **Infraestrutura como Código (IaC)**: Tenho ampla experiência na criação e gerenciamento de infraestrutura na nuvem usando ferramentas como Terraform, Ansible e Azure Resource Manager.
 
 - **Engenharia de Banco de Dados**: Experiência em projetar, implementar e otimizar bancos de dados SQL e NoSQL em ambientes de nuvem, incluindo Azure SQL Database, MongoDB e muito mais.
